@@ -27,7 +27,7 @@ Want to help make Ticket Time Legacy accessible to more users?
 ➡️ [Submit a New Language](https://github.com/Ticket-Time-Official-Discord-Bot/Legacy-Locales/issues/new?template=new-language.yml)
 
 **How to contribute:**
-1. Copy the structure of [`en.json`](languages/en.json)
+1. Copy the structure of [`en.json`](locales/en.json)
 2. Translate the strings into your language
 3. Submit it via an issue linked above
 
