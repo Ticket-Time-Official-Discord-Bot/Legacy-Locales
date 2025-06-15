@@ -19,7 +19,7 @@ body:
       description: |
         Copy the JSON below, translate the values, and paste it back here with your changes.
         Do **not** change the keys.
-      placeholder:
+      placeholder: |
 {
     "name": "English",
     "code": "en",
@@ -68,4 +68,4 @@ body:
         "ping_response": "{} You have been pinged due to a request by {}",
         "rate_button": "🌟 Rate Us"
     }
-}
+} |
