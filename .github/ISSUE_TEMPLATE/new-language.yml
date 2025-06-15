@@ -1,7 +1,7 @@
 name: 🌍 Add New Language
 description: Help translate Ticket Time Legacy into a new language! Translate the information i.e. "🎫 Create a Ticket", into a language you can speak.
 labels: ["translation", "help wanted"]
-
+```
 {
     "name": "English",
     "code": "en",
@@ -51,3 +51,4 @@ labels: ["translation", "help wanted"]
         "rate_button": "🌟 Rate Us"
     }
 }
+```
