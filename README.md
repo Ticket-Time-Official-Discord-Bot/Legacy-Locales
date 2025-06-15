@@ -16,7 +16,7 @@ This version will continue to receive bug fixes and translation support but will
 
 ## 🚀 Invite the bot
 
-[Click here to invite Ticket Time Legacy](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot%20applications.commands&permissions=MANAGE_CHANNELS)
+[Click here to invite Ticket Time Legacy](https://discord.com/oauth2/authorize?client_id=1383760023326429325)
 
 
 ## 🌍 Add a New Language
